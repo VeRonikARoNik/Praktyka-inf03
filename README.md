@@ -60,7 +60,7 @@ obrazki.html
 </html>
 ```
 
-style.css
+styl.css
 ```
 * {
     font-family: 'Century', 'Serif';
