@@ -1,5 +1,6 @@
 # Praktyka-inf03
 https://www.kursinf.pl/pytania/inf03/wszystkie-pytania
+
 https://datalemur.com/questions/matching-skills
 
 <img width="851" height="793" alt="obraz" src="https://github.com/user-attachments/assets/a00b4028-576f-4cf5-a31e-3f33e3196591" />
