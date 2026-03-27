@@ -1,6 +1,7 @@
 # Praktyka-inf03
 
-<img width="859" height="807" alt="obraz" src="https://github.com/user-attachments/assets/df0fafca-ce49-4f30-b718-ef99041fec5d" />
+<img width="851" height="793" alt="obraz" src="https://github.com/user-attachments/assets/a00b4028-576f-4cf5-a31e-3f33e3196591" />
+
 
 
 
