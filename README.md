@@ -1,6 +1,8 @@
 # Praktyka-inf03
 
-![Uploading obraz.png…]()
+<img width="859" height="807" alt="obraz" src="https://github.com/user-attachments/assets/df0fafca-ce49-4f30-b718-ef99041fec5d" />
+
+
 
 
 obrazki.html
