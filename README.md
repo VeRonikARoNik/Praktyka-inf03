@@ -1,5 +1,8 @@
 # Praktyka-inf03
 
+![Uploading obraz.png…]()
+
+
 obrazki.html
 
 ```
